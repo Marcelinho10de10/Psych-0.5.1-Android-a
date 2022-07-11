@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="senpai.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ignis Left0000" x="1" y="41" width="34" height="38"/>
+	<SubTexture name="Ignis Left0001" x="107" y="41" width="34" height="38"/>
+	<SubTexture name="Ignis Left0002" x="36" y="41" width="34" height="38"/>
+	<SubTexture name="Ignis Left0003" x="142" y="41" width="34" height="38"/>
+	<SubTexture name="Ignis Left0004" x="71" y="41" width="34" height="38"/>
+	<SubTexture name="Ignis Left0005" x="177" y="41" width="34" height="38"/>
+	<SubTexture name="Ignis Left0006" x="71" y="41" width="34" height="38"/>
+	<SubTexture name="Ignis Left0007" x="177" y="41" width="34" height="38"/>
+	<SubTexture name="Ignis Left0008" x="71" y="41" width="34" height="38"/>
+	<SubTexture name="Ignis Left0009" x="177" y="41" width="34" height="38"/>
+	
+	<SubTexture name="Ignis Right0000" x="1" y="80" width="33" height="38"/>
+	<SubTexture name="Ignis Right0001" x="104" y="80" width="33" height="38"/>
+	<SubTexture name="Ignis Right0002" x="35" y="80" width="33" height="38"/>
+	<SubTexture name="Ignis Right0003" x="138" y="80" width="33" height="38"/>
+	<SubTexture name="Ignis Right0004" x="69" y="80" width="33" height="38"/>
+	<SubTexture name="Ignis Right0005" x="172" y="80" width="33" height="38"/>
+	<SubTexture name="Ignis Right0006" x="69" y="80" width="33" height="38"/>
+	<SubTexture name="Ignis Right0007" x="172" y="80" width="33" height="38"/>
+	<SubTexture name="Ignis Right0008" x="69" y="80" width="33" height="38"/>
+	<SubTexture name="Ignis Right0009" x="172" y="80" width="33" height="38"/>
+	
+	<SubTexture name="Ignis Down0000" x="1" y="119" width="36" height="38"/>
+	<SubTexture name="Ignis Down0001" x="113" y="119" width="36" height="38"/>
+	<SubTexture name="Ignis Down0002" x="38" y="119" width="36" height="38"/>
+	<SubTexture name="Ignis Down0003" x="150" y="119" width="36" height="38"/>
+	<SubTexture name="Ignis Down0004" x="75" y="119" width="36" height="38"/>
+	<SubTexture name="Ignis Down0005" x="187" y="119" width="36" height="38"/>
+	<SubTexture name="Ignis Down0006" x="75" y="119" width="36" height="38"/>
+	<SubTexture name="Ignis Down0007" x="187" y="119" width="36" height="38"/>
+	<SubTexture name="Ignis Down0008" x="75" y="119" width="36" height="38"/>
+	<SubTexture name="Ignis Down0009" x="187" y="119" width="36" height="38"/>
+	
+	<SubTexture name="Ignis Up0000" x="1" y="158" width="32" height="38"/>
+	<SubTexture name="Ignis Up0001" x="101" y="158" width="32" height="38"/>
+	<SubTexture name="Ignis Up0002" x="34" y="158" width="32" height="38"/>
+	<SubTexture name="Ignis Up0003" x="134" y="158" width="32" height="38"/>
+	<SubTexture name="Ignis Up0004" x="67" y="158" width="32" height="38"/>
+	<SubTexture name="Ignis Up0005" x="167" y="158" width="32" height="38"/>
+	<SubTexture name="Ignis Up0006" x="67" y="158" width="32" height="38"/>
+	<SubTexture name="Ignis Up0007" x="167" y="158" width="32" height="38"/>
+	<SubTexture name="Ignis Up0008" x="67" y="158" width="32" height="38"/>
+	<SubTexture name="Ignis Up0009" x="167" y="158" width="32" height="38"/>
+	
+	<SubTexture name="Ignis Idle0000" x="1" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0001" x="176" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0002" x="1" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0003" x="176" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0004" x="176" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0005" x="1" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0006" x="176" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0007" x="1" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0008" x="205" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0009" x="59" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0010" x="234" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0011" x="88" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0012" x="234" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0013" x="117" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0014" x="292" y="1" width="28" height="39"/>
+	<SubTexture name="Ignis Idle0015" x="1" y="1" width="28" height="39"/>
+	
+	<SubTexture name="Spindash0000" x="1" y="197" width="30" height="27"/>
+	<SubTexture name="Spindash0001" x="32" y="197" width="29" height="27"/>
+	<SubTexture name="Spindash0002" x="1" y="197" width="30" height="27"/>
+	<SubTexture name="Spindash0003" x="62" y="197" width="29" height="27"/>
+	<SubTexture name="Spindash0004" x="1" y="197" width="30" height="27"/>
+	<SubTexture name="Spindash0005" x="92" y="197" width="29" height="27"/>
+	<SubTexture name="Spindash0006" x="1" y="197" width="30" height="27"/>
+	<SubTexture name="Spindash0007" x="122" y="197" width="29" height="27"/>
+	<SubTexture name="Spindash0008" x="1" y="197" width="30" height="27"/>
+	<SubTexture name="Spindash0009" x="152" y="197" width="29" height="27"/>
+	<SubTexture name="Spindash0010" x="1" y="197" width="30" height="27"/>
+	<SubTexture name="Spindash0011" x="182" y="197" width="29" height="27"/>
+	<SubTexture name="Spindash0012" x="1" y="197" width="30" height="27"/>
+	<SubTexture name="Spindash0013" x="212" y="197" width="29" height="27"/>
+	<SubTexture name="Spindash0014" x="1" y="197" width="30" height="27"/>
+	<SubTexture name="Spindash0015" x="242" y="197" width="29" height="27"/>
+</TextureAtlas>
