@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "SSonic Down"
+		},
+		{
+			"offsets": [
+				-22,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "SSonic Left"
+		},
+		{
+			"offsets": [
+				6,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "SSonic Up"
+		},
+		{
+			"offsets": [
+				-30,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SSonic Right"
+		},
+		{
+			"offsets": [
+				-8,
+				28
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SSonic Idle"
+		},
+		{
+			"offsets": [
+				12,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "SSonic Death"
+		},
+		{
+			"offsets": [
+				24,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "SSonic DLoop"
+		},
+		{
+			"offsets": [
+				-4,
+				40
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "SSonic Confirm"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mania/sonicMania",
+	"position": [
+		400,
+		592
+	],
+	"healthicon": "sonicmaniaS",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		104,
+		240
+	],
+	"camera_position": [
+		-120,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 4
+}
