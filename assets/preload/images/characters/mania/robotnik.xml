@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="senpai.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sing10000" x="1" y="86" width="121" height="88"/>
+	<SubTexture name="Sing10001" x="123" y="86" width="121" height="88"/>
+	<SubTexture name="Sing10002" x="245" y="86" width="121" height="88"/>
+	<SubTexture name="Sing10003" x="123" y="86" width="121" height="88"/>
+	
+	<SubTexture name="Sing20000" x="1" y="175" width="121" height="88"/>
+	<SubTexture name="Sing20001" x="123" y="175" width="121" height="88"/>
+	<SubTexture name="Sing20002" x="245" y="175" width="121" height="88"/>
+	<SubTexture name="Sing20003" x="123" y="175" width="121" height="88"/>
+	
+	<SubTexture name="Sing30000" x="1" y="264" width="121" height="88"/>
+	<SubTexture name="Sing30001" x="123" y="264" width="121" height="88"/>
+	<SubTexture name="Sing30002" x="245" y="264" width="121" height="88"/>
+	<SubTexture name="Sing30003" x="123" y="264" width="121" height="88"/>
+	
+	<SubTexture name="Sing40000" x="1" y="353" width="121" height="88"/>
+	<SubTexture name="Sing40001" x="123" y="353" width="121" height="88"/>
+	<SubTexture name="Sing40002" x="245" y="353" width="121" height="88"/>
+	<SubTexture name="Sing40003" x="123" y="353" width="121" height="88"/>
+	
+	<SubTexture name="Idle0000" x="1" y="1" width="121" height="84"/>
+	<SubTexture name="Idle0001" x="123" y="1" width="121" height="84"/>
+	<SubTexture name="Idle0002" x="245" y="1" width="121" height="84"/>
+	<SubTexture name="Idle0003" x="123" y="1" width="121" height="84"/>
+</TextureAtlas>
