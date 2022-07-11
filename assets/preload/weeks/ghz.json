@@ -1,0 +1,31 @@
+{
+	"storyName": "found valley",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "greenhill",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"no-villains",
+			"sonicmania",
+			[
+				48,
+				160,
+				240
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Green Hill Zone"
+}
