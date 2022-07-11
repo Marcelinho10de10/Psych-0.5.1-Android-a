@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-430,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "swimmingbf idle"
+		},
+		{
+			"offsets": [
+				-430,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "swimmingbf right"
+		},
+		{
+			"offsets": [
+				-430,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "swimmingbf left"
+		},
+		{
+			"offsets": [
+				-430,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "swimmingbf down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-430,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "swimmingbf up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-430,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "swimmingbf miss"
+		},
+		{
+			"offsets": [
+				-430,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "swimmingbf miss"
+		},
+		{
+			"offsets": [
+				-430,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "swimmingbf miss"
+		},
+		{
+			"offsets": [
+				-430,
+				-20
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "swimmingbf miss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "lakechrs/swimmingbf",
+	"position": [
+		-1400,
+		240
+	],
+	"healthicon": "red-bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		251,
+		130,
+		137
+	],
+	"camera_position": [
+		-250,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 8.99999999999999
+}

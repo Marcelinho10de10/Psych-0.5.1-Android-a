@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-430,
+				-20
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "finalomc idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-430,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "finalomc left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-430,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "finalomc right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-430,
+				-20
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "finalomc up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-430,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "finalomc down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "lakechrs/finalomc",
+	"position": [
+		500,
+		60
+	],
+	"healthicon": "omc",
+	"flip_x": false,
+	"healthbar_colors": [
+		190,
+		42,
+		68
+	],
+	"camera_position": [
+		-960,
+		-390
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 8.99999999999999
+}
