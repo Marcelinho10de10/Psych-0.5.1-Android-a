@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="redbear.png"><SubTexture name="redbear face0000" x="0" y="0" width="208" height="157" frameX="0" frameY="0" frameWidth="208" frameHeight="157" />
+<SubTexture name="redbear text0000" x="0" y="157" width="208" height="157" frameX="0" frameY="0" frameWidth="208" frameHeight="157" />
+</TextureAtlas>
