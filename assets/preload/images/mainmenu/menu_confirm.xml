@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_awards.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="380" y="300" width="366" height="87"/> 
+	
+	<SubTexture name="select0000" x="380" y="100" width="378" height="99"/> 
+	<SubTexture name="select0001" x="380" y="200" width="378" height="99"/> 
+	
+	<SubTexture name="hover0000" x="0" y="0" width="378" height="99"/> 
+	<SubTexture name="hover0001" x="0" y="100" width="378" height="99"/> 
+	<SubTexture name="hover0002" x="0" y="200" width="378" height="99"/> 
+	<SubTexture name="hover0003" x="0" y="300" width="378" height="99"/> 
+	<SubTexture name="hover0004" x="0" y="400" width="378" height="99"/> 
+	<SubTexture name="hover0005" x="0" y="500" width="378" height="99"/> 
+	<SubTexture name="hover0006" x="0" y="600" width="378" height="99"/> 
+	<SubTexture name="hover0007" x="0" y="700" width="378" height="99"/> 
+	<SubTexture name="hover0008" x="0" y="800" width="378" height="99"/> 
+	<SubTexture name="hover0009" x="0" y="900" width="378" height="99"/> 
+	<SubTexture name="hover0010" x="380" y="0" width="378" height="99"/> 
+	<SubTexture name="hover0011" x="380" y="100" width="378" height="99"/> 
+	<SubTexture name="hover0012" x="380" y="0" width="378" height="99"/> 
+	<SubTexture name="hover0013" x="0" y="900" width="378" height="99"/> 
+	<SubTexture name="hover0014" x="0" y="800" width="378" height="99"/> 
+	<SubTexture name="hover0015" x="0" y="700" width="378" height="99"/> 
+	<SubTexture name="hover0016" x="0" y="600" width="378" height="99"/> 
+	<SubTexture name="hover0017" x="0" y="500" width="378" height="99"/> 
+	<SubTexture name="hover0018" x="0" y="400" width="378" height="99"/> 
+	<SubTexture name="hover0019" x="0" y="300" width="378" height="99"/> 
+	<SubTexture name="hover0020" x="0" y="200" width="378" height="99"/>
+	<SubTexture name="hover0021" x="0" y="100" width="378" height="99"/> 
+</TextureAtlas>
