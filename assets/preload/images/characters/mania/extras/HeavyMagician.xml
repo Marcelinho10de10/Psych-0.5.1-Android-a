@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="1" width="71" height="80"/>
+	<SubTexture name="idle0001" x="72" y="1" width="71" height="80"/>
+	<SubTexture name="idle0002" x="144" y="1" width="78" height="80"/>
+	<SubTexture name="idle0003" x="223" y="1" width="77" height="80"/>
+	<SubTexture name="idle0004" x="301" y="1" width="77" height="80"/>
+	<SubTexture name="idle0005" x="379" y="1" width="76" height="80"/>
+
+	<SubTexture name="greeting0000" x="0" y="82" width="85" height="97"/>
+	<SubTexture name="greeting0001" x="86" y="82" width="85" height="97"/>
+	<SubTexture name="greeting0002" x="172" y="82" width="85" height="97"/>
+	<SubTexture name="greeting0003" x="258" y="82" width="85" height="97"/>
+	<SubTexture name="greeting0004" x="344" y="82" width="85" height="97"/>
+	<SubTexture name="greeting0005" x="344" y="82" width="85" height="97"/>
+	<SubTexture name="greeting0006" x="344" y="82" width="85" height="97"/>
+	<SubTexture name="greeting0007" x="430" y="82" width="85" height="97"/>
+	<SubTexture name="greeting0008" x="86" y="82" width="85" height="97"/>
+	<SubTexture name="greeting0009" x="0" y="82" width="85" height="97"/>
+	
+	<SubTexture name="magictrick0000" x="1" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0001" x="111" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0002" x="221" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0003" x="331" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0004" x="441" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0005" x="551" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0006" x="665" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0007" x="778" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0008" x="778" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0009" x="778" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0010" x="778" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0011" x="665" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0012" x="441" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0013" x="221" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0014" x="111" y="180" width="109" height="97"/>
+	<SubTexture name="magictrick0015" x="1" y="180" width="109" height="97"/>
+
+	<SubTexture name="disappearingact0000" x="1" y="278" width="55" height="79"/>
+	<SubTexture name="disappearingact0001" x="57" y="278" width="55" height="79"/>
+	<SubTexture name="disappearingact0002" x="113" y="278" width="55" height="79"/>
+	<SubTexture name="disappearingact0003" x="169" y="278" width="55" height="79"/>
+	<SubTexture name="disappearingact0004" x="225" y="278" width="55" height="79"/>
+	<SubTexture name="disappearingact0005" x="281" y="278" width="55" height="79"/>
+	<SubTexture name="disappearingact0006" x="1" y="1" width="1" height="1"/>
+	<SubTexture name="disappearingact0007" x="1" y="1" width="1" height="1"/>
+	<SubTexture name="disappearingact0008" x="1" y="1" width="1" height="1"/>
+	<SubTexture name="disappearingact0009" x="1" y="1" width="1" height="1"/>
+	<SubTexture name="disappearingact0010" x="1" y="1" width="1" height="1"/>
+	<SubTexture name="disappearingact0011" x="1" y="1" width="1" height="1"/>
+	<SubTexture name="disappearingact0012" x="1" y="1" width="1" height="1"/>
+	<SubTexture name="disappearingact0013" x="1" y="1" width="1" height="1"/>
+	<SubTexture name="disappearingact0014" x="1" y="1" width="1" height="1"/>
+	<SubTexture name="disappearingact0015" x="1" y="1" width="1" height="1"/>
+
+</TextureAtlas>
