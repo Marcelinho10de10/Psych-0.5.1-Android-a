@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="omcbf.png"><SubTexture name="omcbf dead0000" x="0" y="0" width="169" height="157" frameX="0" frameY="0" frameWidth="169" frameHeight="157" />
+</TextureAtlas>

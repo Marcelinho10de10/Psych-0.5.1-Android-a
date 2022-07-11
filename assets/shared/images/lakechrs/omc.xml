@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="omc.png"><SubTexture name="omc idle0000" x="0" y="0" width="144" height="144" frameX="0" frameY="0" frameWidth="144" frameHeight="144" />
+<SubTexture name="omc left0000" x="144" y="0" width="144" height="144" frameX="0" frameY="0" frameWidth="144" frameHeight="144" />
+<SubTexture name="omc left0001" x="288" y="0" width="144" height="144" frameX="0" frameY="0" frameWidth="144" frameHeight="144" />
+<SubTexture name="omc right0000" x="0" y="144" width="144" height="144" frameX="0" frameY="0" frameWidth="144" frameHeight="144" />
+<SubTexture name="omc right0001" x="144" y="144" width="144" height="144" frameX="0" frameY="0" frameWidth="144" frameHeight="144" />
+<SubTexture name="omc up0000" x="288" y="144" width="144" height="144" frameX="0" frameY="0" frameWidth="144" frameHeight="144" />
+<SubTexture name="omc up0001" x="0" y="288" width="144" height="144" frameX="0" frameY="0" frameWidth="144" frameHeight="144" />
+<SubTexture name="omc down0000" x="144" y="288" width="144" height="144" frameX="0" frameY="0" frameWidth="144" frameHeight="144" />
+<SubTexture name="omc down0001" x="288" y="288" width="144" height="144" frameX="0" frameY="0" frameWidth="144" frameHeight="144" />
+</TextureAtlas>
